@@ -1,19 +1,21 @@
-This project contains multiple licenses depending on the sub-project. 
-Check each sub-project individually.
+MIT License
 
-* JSweet transpiler: GPLv3
-* JSweet core: Apache 2
-* JDK runtime (J4TS): Apache 2
-* JSweet candy generator: GPLv3
-* JSweet documentation: CC-BY-SA
- 
-DISCLAIMER: JSweet licensing is designed so that one can use JSweet to 
-program closed-source and commercial applications. JSweet Java to TypeScript 
-transpilers are under GPL and all the APIs are in Apache 2, which makes it 
-very clear that you can build commercial applications using JSweet (similarly 
-to when using GNU's GCC C/C++ compiler, which is also a GPL software).
+Copyright (c) 2026-2004 Billal Mesloub-unity billal mesloub
 
-Constraints of the GPL only hold when using/modifying JSweet source code of 
-the transpiler and/or of the candy generator. If you want to embed the 
-transpiler or the candy generator in a non-open source commercial project, 
-please contact Renaud Pawlak for discussing a commercial license.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
